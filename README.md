@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabionekenoby
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning java, javascript, powershell, bash, html-css ...
+- 🌱 I’m currently learning java, powershell, bash
 - 💞️ I’m looking to collaborate on nothing😋
 - 📫 How to reach me : i dont want new friends 😶
 
